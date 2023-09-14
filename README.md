@@ -1,2 +1,2 @@
 # Progamming.linux
-This is my first igit repository.
+This is my first git repository.
